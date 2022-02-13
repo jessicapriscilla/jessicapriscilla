@@ -17,3 +17,4 @@
  
 </div>
                                                   
+![Snake animation](https://github.com/jessicapriscilla/jessicapriscilla/blob/output/github-contribution-grid-snake.svg)
